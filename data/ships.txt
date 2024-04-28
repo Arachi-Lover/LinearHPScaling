@@ -1,0 +1,343 @@
+
+# HAI
+ship "Lightning Bug"
+	attributes
+		"shields" 7200
+		"hull" 2100
+
+ship "Sea Scorpion"
+	attributes
+		"shields" 14200
+		"hull" 4500
+
+ship "Solifuge"
+	attributes
+		"shields" 32800
+		"hull" 11000
+
+# REMNANT
+ship "Penguin"
+	attributes
+		"shields" 2600
+		"hull" 1700
+
+ship "Merganser"
+	attributes
+		"shields" 2600
+		"hull" 2800
+
+ship "Starling"
+	attributes
+		"shields" 7700
+		"hull" 4300
+
+ship "Ibis"
+	attributes
+		"shields" 13200
+		"hull" 4900
+
+ship "Peregrine"
+	attributes
+		"shields" 14800
+		"hull" 5900
+
+ship "Albatross"
+	attributes
+		"shields" 32400
+		"hull" 10900
+
+ship "Heron"
+	attributes
+		"shields" 70000
+		"hull" 70000
+
+# KAHET
+
+ship "Maeri'het"
+	attributes
+		"shields" 13600
+		"hull" 15100
+
+ship "Telis'het"
+	attributes
+		"shields" 21000
+		"hull" 14700
+
+ship "Vareti'het"
+	attributes
+		"shields" 26300
+		"hull" 19800
+
+# BUNRODEA
+
+ship "Kaiken"
+	attributes
+		"shields" 2600
+
+ship "Sasumata"
+	attributes
+		"shields" 9500
+		"hull" 2800
+
+ship "Tanto"
+	attributes
+		"shields" 9700
+		"hull" 2700
+
+ship "Ararebo"
+	attributes
+		"shields" 25300
+		"hull" 10600
+
+ship "Tekkan"
+	attributes
+		"shields" 10600
+		"hull" 2900
+
+ship "Kunai"
+	attributes
+		"shields" 11300
+		"hull" 3100
+
+ship "Kama"
+	attributes
+		"shields" 19700
+		"hull" 5300
+
+ship "Chigiriki"
+	attributes
+		"shields" 31000
+		"hull" 13000
+
+# WANDERER
+ship "Cool Breeze"
+	attributes
+		"shields" 4200
+		"hull" 2300
+
+ship "Summer Leaf"
+	attributes
+		"shields" 10900
+		"hull" 4400
+
+ship "Autumn Leaf"
+	attributes
+		"shields" 12100
+		"hull" 5000
+
+ship "Winter Gale"
+	attributes
+		"shields" 13100
+		"hull" 6200
+
+ship "Strong Wind"
+	attributes
+		"shields" 17800
+		"hull" 7800
+
+ship "Tempest"
+	attributes
+		"shields" 19700
+		"hull" 9100
+
+ship "Deep River"
+	attributes
+		"shields" 9200
+		"hull" 23900
+
+ship "Deep River Transport"
+	attributes
+		"shields" 9200
+		"hull" 23900
+
+ship "Riptide"
+	attributes
+		"shields" 15900
+		"hull" 8500
+
+ship "Derecho"
+	attributes
+		"shields" 31400
+		"hull" 15600
+
+ship "Hurricane"
+	attributes
+		"shields" 36700
+		"hull" 19300
+
+# KORATH
+
+ship "Rano'erek"
+	attributes
+		"hull" 11500
+
+ship "Ra'gru Ik 618"
+	attributes
+		"shields" 31000
+		"hull" 29500
+
+ship "Kas'lor Ik 582"
+	attributes
+		"shields" 36700
+		"hull" 25900
+
+ship "Lor'nag Ik 590"
+	attributes
+		"shields" 37000
+		"hull" 24800
+
+ship "Ra'at Ik 621"
+	attributes
+		"shields" 38000
+		"hull" 21400
+
+ship "Kasichara A'awoj"
+	attributes
+		"shields" 34000
+		"hull" 39600
+
+ship "Ikatila'ej"
+	attributes
+		"shields" 52700
+		"hull" 63000
+
+ship "Korsmanath A'awoj"
+	attributes
+		"shields" 70000
+		"hull" 100000
+
+# KOR AUTOMATA
+ship "Far Lek 14"
+	attributes
+		"shields" 800
+		"hull" 1500
+
+ship "Far Osk 27"
+	attributes
+		"shields" 1300
+		"hull" 2200
+
+ship "Model 8"
+	attributes
+		"shields" 3700
+		"hull" 1900
+
+ship "Model 16"
+	attributes
+		"shields" 10100
+		"hull" 4300
+
+ship "Model 32"
+	attributes
+		"shields" 13200
+		"hull" 4600
+
+ship "Met Par Tek 53"
+	attributes
+		"shields" 7200
+		"hull" 8800
+
+ship "Model 64"
+	attributes
+		"shields" 19400
+		"hull" 5700
+
+ship "Model 128"
+	attributes
+		"shields" 23800
+		"hull" 6200
+
+ship "Tek Far 71 - Lek"
+	attributes
+		"shields" 11800
+		"hull" 13800
+
+ship "Tek Far 78 - Osk"
+	attributes
+		"shields" 12600
+		"hull" 15700
+
+ship "Tek Far 109"
+	attributes
+		"shields" 10800
+		"hull" 9600
+
+ship "Model 256"
+	attributes
+		"shields" 35200
+		"hull" 15000
+
+ship "Model 512"
+	attributes
+		"shields" 40700
+		"hull" 16600
+
+ship "Kar Ik Vot 349"
+	attributes
+		"shields" 28300
+		"hull" 30200
+
+#HELIARCH
+ship "Heliarch Pursuer"
+	attributes
+		"shields" 1700
+		"hull" 1200
+
+ship "Heliarch Rover"
+	attributes
+		"shields" 2300
+		"hull" 2100
+
+ship "Heliarch Stalker"
+	attributes
+		"shields" 3900
+		"hull" 3400
+
+ship "Heliarch Breacher"
+	attributes
+		"shields" 9300
+		"hull" 8700
+
+ship "Heliarch Neutralizer"
+	attributes
+		"shields" 10400
+		"hull" 9100
+
+ship "Heliarch Hunter"
+	attributes
+		"shields" 20100
+		"hull" 13200
+
+ship "Heliarch Interdictor"
+	attributes
+		"shields" 22900
+		"hull" 15100
+
+ship "Heliarch Judicator"
+	attributes
+		"shields" 14100
+		"hull" 11800
+
+ship "Heliarch Punisher"
+	attributes
+		"shields" 39300
+		"hull" 28200
+
+# PUG
+ship "Pug Arfecta"
+	attributes
+		"shields" 20900
+		"hull" 17700
+
+# QUARG
+ship "Quarg Skylark"
+	attributes
+		"shields" 17000
+		"hull" 9500
+
+ship "Quarg Wardragon"
+	attributes
+		"shields" 21000
+		"hull" 7000
+
+
