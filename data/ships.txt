@@ -18,7 +18,7 @@ ship "Solifuge"
 # REMNANT
 ship "Penguin"
 	attributes
-		"shields" 2600
+		"shields" 2500
 		"hull" 1700
 
 ship "Merganser"
@@ -33,7 +33,7 @@ ship "Starling"
 
 ship "Ibis"
 	attributes
-		"shields" 13200
+		"shields" 13100
 		"hull" 4900
 
 ship "Peregrine"
@@ -56,7 +56,7 @@ ship "Heron"
 ship "Maeri'het"
 	attributes
 		"shields" 13600
-		"hull" 15100
+		"hull" 14900
 
 ship "Telis'het"
 	attributes
@@ -72,12 +72,12 @@ ship "Vareti'het"
 
 ship "Kaiken"
 	attributes
-		"shields" 2600
+		"shields" 2700
 
 ship "Sasumata"
 	attributes
 		"shields" 9500
-		"hull" 2800
+		"hull" 2900
 
 ship "Tanto"
 	attributes
@@ -92,7 +92,7 @@ ship "Ararebo"
 ship "Tekkan"
 	attributes
 		"shields" 10600
-		"hull" 2900
+		"hull" 3000
 
 ship "Kunai"
 	attributes
@@ -101,7 +101,7 @@ ship "Kunai"
 
 ship "Kama"
 	attributes
-		"shields" 19700
+		"shields" 19600
 		"hull" 5300
 
 ship "Chigiriki"
@@ -127,7 +127,7 @@ ship "Autumn Leaf"
 
 ship "Winter Gale"
 	attributes
-		"shields" 13100
+		"shields" 13300
 		"hull" 6200
 
 ship "Strong Wind"
@@ -173,12 +173,12 @@ ship "Rano'erek"
 
 ship "Ra'gru Ik 618"
 	attributes
-		"shields" 31000
+		"shields" 30500
 		"hull" 29500
 
 ship "Kas'lor Ik 582"
 	attributes
-		"shields" 36700
+		"shields" 36600
 		"hull" 25900
 
 ship "Lor'nag Ik 590"
@@ -203,8 +203,8 @@ ship "Ikatila'ej"
 
 ship "Korsmanath A'awoj"
 	attributes
-		"shields" 70000
-		"hull" 100000
+		"shields" 75000
+		"hull" 90000
 
 # KOR AUTOMATA
 ship "Far Lek 14"
@@ -225,7 +225,7 @@ ship "Model 8"
 ship "Model 16"
 	attributes
 		"shields" 10100
-		"hull" 4300
+		"hull" 4200
 
 ship "Model 32"
 	attributes
@@ -234,7 +234,7 @@ ship "Model 32"
 
 ship "Met Par Tek 53"
 	attributes
-		"shields" 7200
+		"shields" 7300
 		"hull" 8800
 
 ship "Model 64"
@@ -245,7 +245,7 @@ ship "Model 64"
 ship "Model 128"
 	attributes
 		"shields" 23800
-		"hull" 6200
+		"hull" 6100
 
 ship "Tek Far 71 - Lek"
 	attributes
@@ -286,7 +286,7 @@ ship "Heliarch Pursuer"
 ship "Heliarch Rover"
 	attributes
 		"shields" 2300
-		"hull" 2100
+		"hull" 2000
 
 ship "Heliarch Stalker"
 	attributes
@@ -301,7 +301,7 @@ ship "Heliarch Breacher"
 ship "Heliarch Neutralizer"
 	attributes
 		"shields" 10400
-		"hull" 9100
+		"hull" 9000
 
 ship "Heliarch Hunter"
 	attributes
@@ -337,7 +337,5 @@ ship "Quarg Skylark"
 
 ship "Quarg Wardragon"
 	attributes
-		"shields" 21000
+		"shields" 22000
 		"hull" 7000
-
-
