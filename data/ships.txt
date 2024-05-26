@@ -1,4 +1,9 @@
 
+# GEGNO
+ship "Augen"
+	attributes
+		"hull" 87000
+
 # HAI
 ship "Lightning Bug"
 	attributes
@@ -52,7 +57,6 @@ ship "Heron"
 		"hull" 70000
 
 # KAHET
-
 ship "Maeri'het"
 	attributes
 		"shields" 13600
@@ -69,7 +73,6 @@ ship "Vareti'het"
 		"hull" 19800
 
 # BUNRODEA
-
 ship "Kaiken"
 	attributes
 		"shields" 2700
@@ -166,7 +169,6 @@ ship "Hurricane"
 		"hull" 19300
 
 # KORATH
-
 ship "Rano'erek"
 	attributes
 		"hull" 11500
