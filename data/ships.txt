@@ -72,6 +72,72 @@ ship "Vareti'het"
 		"shields" 26300
 		"hull" 19800
 
+# SUCCESSORS
+ship "Kvelqde"
+	attributes
+		"shields" 150
+		"hull" 1300
+
+ship "Nnesaarau"
+	attributes
+		"shields" 950
+		"hull" 1150
+
+ship "Ejniisde"
+	attributes
+		"shields" 1000
+		"hull" 4950
+
+ship "Nnaatej"
+	attributes
+		"shields" 1500
+		"hull" 8250
+
+ship "Kaskhorade"
+	attributes
+		"shields" 3000
+		"hull" 22500
+
+ship "Myaede"
+	attributes
+		"shields" 750
+		"hull" 7150
+
+ship "Ojde"
+	attributes
+		"shields" 1450
+		"hull" 16850
+
+ship "Seiitej"
+	attributes
+		"shields" 3050
+		"hull" 16150
+
+ship "Kvelqde-Khora"
+	attributes
+		"shields" 300
+		"hull" 2400
+
+ship "Stolsaqra"
+	attributes
+		"shields" 450
+		"hull" 3050
+
+ship "Vujlet"
+	attributes
+		"shields" 1850
+		"hull" 11350
+
+ship "Veusade"
+	attributes
+		"shields" 3150
+		"hull" 14950
+
+ship "Aaulqra"
+	attributes
+		"shields" 4250
+		"hull" 27150
+
 # BUNRODEA
 ship "Kaiken"
 	attributes
