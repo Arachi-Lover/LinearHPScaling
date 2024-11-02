@@ -2,7 +2,7 @@
 # GEGNO
 ship "Augen"
 	attributes
-		"hull" 87000
+		"hull" 137000
 
 # HAI
 ship "Lightning Bug"
@@ -53,8 +53,8 @@ ship "Albatross"
 
 ship "Heron"
 	attributes
-		"shields" 70000
-		"hull" 70000
+		"shields" 100000
+		"hull" 100000
 
 # KAHET
 ship "Maeri'het"
@@ -271,8 +271,8 @@ ship "Ikatila'ej"
 
 ship "Korsmanath A'awoj"
 	attributes
-		"shields" 75000
-		"hull" 90000
+		"shields" 105000
+		"hull" 140000
 
 # KOR AUTOMATA
 ship "Far Lek 14"
