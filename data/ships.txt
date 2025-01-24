@@ -4,6 +4,12 @@ ship "Augen"
 	attributes
 		"hull" 137000
 
+# AVGI
+ship "Difraktos"
+	attributes
+		"shields" 4000
+		"hull" 16000
+
 # HAI
 ship "Lightning Bug"
 	attributes
@@ -345,7 +351,38 @@ ship "Kar Ik Vot 349"
 		"shields" 28300
 		"hull" 30200
 
-#HELIARCH
+# ABERRANT
+ship "Aberrant Latte"
+	attributes
+		"shields" 6400
+		"hull" 9600
+
+ship "Aberrant Pileup"
+	attributes
+		"shields" 11600
+		"hull" 16800
+
+ship "Aberrant Dancer"
+	attributes
+		"shields" 15200
+		"hull" 21800
+
+ship "Aberrant Junior"
+	attributes
+		"shields" 4600
+		"hull" 16900
+
+ship "Aberrant Icebreaker"
+	attributes
+		"shields" 6700
+		"hull" 17600
+
+ship "Aberrant Triplet"
+	attributes
+		"shields" 24600
+		"hull" 23800
+
+# HELIARCH
 ship "Heliarch Pursuer"
 	attributes
 		"shields" 1700
