@@ -435,11 +435,6 @@ ship "Pug Arfecta"
 		"hull" 21600
 
 # QUARG
-ship "Quarg Skylark"
-	attributes
-		"shields" 17000
-		"hull" 9500
-
 ship "Quarg Lindwyrm"
 	attributes
 		"shields" 17000
