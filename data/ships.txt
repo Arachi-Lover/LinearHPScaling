@@ -431,8 +431,8 @@ ship "Heliarch Punisher"
 # PUG
 ship "Pug Arfecta"
 	attributes
-		"shields" 20900
-		"hull" 17700
+		"shields" 27900
+		"hull" 21600
 
 # QUARG
 ship "Quarg Skylark"
@@ -440,7 +440,33 @@ ship "Quarg Skylark"
 		"shields" 17000
 		"hull" 9500
 
+ship "Quarg Lindwyrm"
+	attributes
+		"shields" 17000
+		"hull" 15500
+
+ship "Quarg Guivre"
+	attributes
+		"shields" 42000
+		"hull" 31000
+
+ship "Quarg Drake"
+	attributes
+		"shields" 23500
+		"hull" 7700
+
+
 ship "Quarg Wardragon"
 	attributes
-		"shields" 22000
-		"hull" 7000
+		"shields" 25300
+		"hull" 8500
+
+ship "Quarg Wyvern"
+	attributes
+		"shields" 40900
+		"hull" 14000
+
+ship "Quarg Hydra"
+	attributes
+		"shields" 88000
+		"hull" 28000
