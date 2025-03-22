@@ -6,15 +6,15 @@ The basic idea is that a T2 HW would now have around 2x the HP of a T1 HW. This 
 
 With the difference in HP reduced, earlier ships, such as human ones, have more of a chance against higher Tier ships, meaning their usefulness is extended into later in the game should one still want to play with human ships at later points.
 
-Spacefaring creatures such as the Void Sprite and Subsidurial were not affected. The Archon has also not been altered yet, but may be included in later releases, depending on if and how the Drak are rebalanced now following the Quarg Revamp.
+Spacefaring creatures such as the Void Sprite and Subsidurial were not affected.
 
 Below are some before and after comparisons of HP
 
 | Ship | Previous Shields | New Shields | Previous Hull | New Hull | Previous Total | New Total|
 |------|------------------|-------------|---------------|----------|----------------|----------|
-| Derecho | 53200 | 31400 | 32700 | 15600 | 85900 | 47000 |
-| Hurricane | 72400 | 36700 | 46500 | 19300 | 118900 | 56000 |
-| Model 512 | 86400 | 40700 | 34200 | 16600 | 120600 | 57300 |
-| Kar Ik Vot 349 | 57200 | 28300 | 65400 | 30200 | 122600 | 58500 |
+| Derecho | 53200 | 33300 | 32700 | 16500 | 85900 | 49800 |
+| Hurricane | 72400 | 38700 | 46500 | 22300 | 118900 | 61000 |
+| Model 512 | 86400 | 42100 | 34200 | 17900 | 120600 | 60000 |
+| Kar Ik Vot 349 | 57200 | 29900 | 65400 | 34800 | 122600 | 64700 |
 | Heliarch Punisher | 108000 | 39300 | 85000 | 28200 | 193000 | 67500 |
-| Quarg Hydra | 310000 | 88000 | 80000 | 28000 | 390000 | 116000 |
+| Quarg Hydra | 310000 | 99000 | 80000 | 29000 | 390000 | 128000 |
