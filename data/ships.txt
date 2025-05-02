@@ -218,6 +218,11 @@ ship "Strong Wind"
 		"shields" 17800
 		"hull" 7900
 
+ship "Heavy Gust"
+	attributes
+		"shields" 18800
+		"hull" 8700
+
 ship "Tempest"
 	attributes
 		"shields" 19900
