@@ -18,3 +18,9 @@ Below are some before and after comparisons of HP
 | Kar Ik Vot 349 | 57200 | 29900 | 65400 | 34800 | 122600 | 64700 |
 | Heliarch Punisher | 108000 | 39300 | 85000 | 28200 | 193000 | 67500 |
 | Quarg Hydra | 310000 | 99000 | 80000 | 29000 | 390000 | 128000 |
+
+#### Arachi's Plugins
+
+[LinearHPScaling](https://github.com/Arachi-Lover/LinearHPScaling)
+[LowerDamage](https://github.com/Arachi-Lover/LowerDamage)
+[EvenLowerDamage](https://github.com/Arachi-Lover/EvenLowerDamage)
