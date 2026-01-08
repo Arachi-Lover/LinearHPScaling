@@ -24,3 +24,4 @@ Below are some before and after comparisons of HP
 [LinearHPScaling](https://github.com/Arachi-Lover/LinearHPScaling)
 [LowerDamage](https://github.com/Arachi-Lover/LowerDamage)
 [EvenLowerDamage](https://github.com/Arachi-Lover/EvenLowerDamage)
+[RacingFlivverModifications](https://github.com/Arachi-Lover/RacingFlivverModifications)
