@@ -27,3 +27,4 @@ Below are some before and after comparisons of HP
 [RacingFlivverModifications](https://github.com/Arachi-Lover/RacingFlivverModifications)
 [SmolEngines](https://github.com/Arachi-Lover/SmolEngines)
 [PirateVariantsHPFix](https://github.com/Arachi-Lover/PirateVariantsHPFix)
+[Glory to the CCOR](https://github.com/Arachi-Lover/Glory-to-the-CCOR)
