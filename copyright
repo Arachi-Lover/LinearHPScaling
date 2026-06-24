@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: LinearHPScaling
+Upstream-Contact: Arachi <https://github.com/Arachi-Lover>
+Source: https://github.com/Arachi-Lover/LinearHPScaling
+
+Copyright: Arachi <https://github.com/Arachi-Lover>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ icon*.png
+Copyright: Qiang Li, Rodrigo García-Muelas & Nuria Lopez
+License: CC-BY-4.0
+Comment: Derived from figure 3 on page 3 in doi:10.1038/s41467-018-02884-y ("Microkinetics of alcohol reforming for H2 production from a FAIR density functional theory database")
